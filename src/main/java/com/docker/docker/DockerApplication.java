@@ -11,7 +11,7 @@ public class DockerApplication {
 
 	@GetMapping("/")
 	public String test1(){
-		return "welcome";
+		return "Hai, welcome all";
 	}
 
 	public static void main(String[] args) {
