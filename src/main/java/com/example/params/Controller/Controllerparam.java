@@ -1,4 +1,4 @@
-package com.example.params.Controller;
+package com.example.params.controller;
 
 
 import org.springframework.web.bind.annotation.*;
